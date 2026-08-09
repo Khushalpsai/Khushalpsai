@@ -17,11 +17,11 @@ fun_fact: I believe code can change the world, one commit at a time!
 
 
 
-- 🔭 I'm currently exploring **Machine Learning & Deep Learning**
-- 🌱 I love experimenting with **TensorFlow** and building cool models
-- 💻 Proficient in **C/C++, Java, Python, R, MATLAB**
-- 🎯 Goal: Build innovative solutions that make a difference
-- ⚡ Fun fact: I think **debugging is like being a detective** in a crime movie where you're also the murderer 🕵️
+- I'm currently exploring **Machine Learning & Deep Learning**
+- I love experimenting with **TensorFlow** and building cool models
+- Proficient in **C/C++, Java, Python, R, MATLAB**
+- Goal: Build innovative solutions that make a difference
+- Fun fact: I think **debugging is like being a detective** in a crime movie where you're also the murderer 🕵️
 
 <br clear="both"/>
 
