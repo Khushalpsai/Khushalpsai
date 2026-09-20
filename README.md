@@ -4,7 +4,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
 name: Khushal
@@ -27,7 +27,7 @@ fun_fact: I believe code can change the world, one commit at a time!
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 <table>
   <tr>
@@ -111,7 +111,7 @@ fun_fact: I believe code can change the world, one commit at a time!
 </table>
 
 ---
-## 🔗 Find Me
+## Find Me
 
 <div align="center">
 
