@@ -1,6 +1,6 @@
 # Hey there! I'm Khushal 👋
 
-**`B.Tech Student | Machine Learning Enthusiast | Building Fun Stuff for the World 🌍`**
+**`B.Tech Student | Machine Learning Enthusiast | Building Fun Stuff for the World using my own bare hands`**
 
 ---
 
